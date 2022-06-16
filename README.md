@@ -1,7 +1,7 @@
 # ODriveUI
 
 A GUI for ODrive operation.
-
+![](docs/img.png)
 ## Usage
 
 - Setup python environment
